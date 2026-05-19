@@ -1,0 +1,26 @@
+{
+  "name": "CEMAN — Dashboard Operacional",
+  "short_name": "CEMAN",
+  "description": "Sistema de Controle de Mandados — Justiça Federal · Ponta Grossa",
+  "start_url": "https://derciliopereira-commits.github.io/ceman-app/",
+  "scope": "https://derciliopereira-commits.github.io/ceman-app/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0C1828",
+  "theme_color": "#0C1828",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "https://derciliopereira-commits.github.io/ceman-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://derciliopereira-commits.github.io/ceman-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
